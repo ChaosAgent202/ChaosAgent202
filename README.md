@@ -2,7 +2,7 @@
 - I’m interested in Skyrim, music, art, and Game Design.
 - I’m currently learning more about art, 3D modelling, Java, HTML, and various other coding languages.
 - You can reach me via Discord(TheAgentOfChaos#7882) and email(bnmsjoy102@gmail.com).
-- I am finishing up work on Tetrad's Exploration with teh rest of my team for my major.
+- I worked on Tetrad's Exploration(https://team-avatar.itch.io/tetrads-exploration) with the rest of my team for my major.
 
 <!---
 ChaosAgent202/ChaosAgent202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
