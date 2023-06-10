@@ -1,4 +1,4 @@
-- Hi, my name is Joy. I also go by Chaos or Red. I am currently a senior in Game Design.
+- Hi, my name is Joy. I also go by Chaos or Red. I am a graduate of Rider University's Game Design major.
 - I’m interested in Skyrim, music, art, and Game Design.
 - I’m currently learning more about art, 3D modelling, Java, HTML, and various other coding languages.
 - You can reach me via Discord(TheAgentOfChaos#7882) and email(bnmsjoy102@gmail.com).
