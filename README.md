@@ -1,7 +1,7 @@
 - Hi, my name is Joy. I also go by Chaos or Red. I am a graduate of Rider University's Game Design major.
 - I’m interested in Skyrim, music, art, and Game Design.
 - I’m currently learning more about art, 3D modelling, Java, HTML, and various other coding languages.
-- You can reach me via Discord(TheAgentOfChaos#7882) and email(bnmsjoy102@gmail.com).
+- You can reach me via Discord(chaosagent202) and email(bnmsjoy102@gmail.com).
 - I worked on Tetrad's Exploration(https://team-avatar.itch.io/tetrads-exploration) with the rest of my team for my major.
 
 -portfolio: https://joy-k-roberts-portfolio.squarespace.com/
