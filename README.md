@@ -6,6 +6,8 @@
 - I made the character models for Food Fighters(https://store.steampowered.com/app/2762760/FoodFighters/)
 
 -portfolio: https://bnmsjoy102.wixsite.com/joy--red--roberts
+
+- linktree: https://linktr.ee/carpenter_wing
 <!---
 ChaosAgent202/ChaosAgent202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
